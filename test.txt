@@ -19,3 +19,4 @@
 [19]Test git 123.
 [20]Test git 123.
 [21]I made a change after the first commit.
+[22]I MADE A CHANGE AFTER THE SECOND COMMIT.
